@@ -226,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         AccountHeader headerResult = new AccountHeaderBuilder()
                 .withActivity(this)
-                .withHeaderBackground(R.drawable.unibo)
+                .withHeaderBackground(R.drawable.schedular_banner)
                 .build();
         //Create Drawer Menu
         new DrawerBuilder().withActivity(this).build();
