@@ -4,9 +4,9 @@
     <color name="colorPrimary">#0820A5</color>
     <color name="colorPrimaryLight">#0C4AEC</color>
     <color name="colorPrimaryDark">#051467</color>
-    <color name="colorSecondary">#f44336</color>
-    <color name="colorSecondaryLight">#ff7961</color>
-    <color name="colorSecondaryDark">#ba000d</color>
+    <color name="colorSecondary">#046A05</color>
+    <color name="colorSecondaryLight">#1CCC0F</color>
+    <color name="colorSecondaryDark">#077723</color>
 
     <color name="black_12">#1F171717</color>
     <color name="divider">@color/black_12</color>
