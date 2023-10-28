@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=2196F3&secondary.color=F44336 -->
+    <color name="colorPrimary">#0820A5</color>
+    <color name="colorPrimaryLight">#0C4AEC</color>
+    <color name="colorPrimaryDark">#051467</color>
+    <color name="colorSecondary">#f44336</color>
+    <color name="colorSecondaryLight">#ff7961</color>
+    <color name="colorSecondaryDark">#ba000d</color>
+
+    <color name="black_12">#1F171717</color>
+    <color name="divider">@color/black_12</color>
+
+</resources>
