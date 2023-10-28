@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Task Scheduler</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+
+    <string name="task_date"><u>Select date</u></string>
+    <string name="task_time"><u>Select time</u></string>
+    <string name="task_priority">Select Priority</string>
+
+    <string name="add_task">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_heading">Item Heading</string>
+    <string name="priority">Priority:</string>
+    <string name="category">Category</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="delete_all_tasks">Delete all tasks</string>
+</resources>
