@@ -1,7 +1,7 @@
 # Task Scheduler
 Is an Android application able to manage personal tasks within a calendar, send notifications, modify tasks, mark them as completed or postpone them.
 ### Installation
-1. [Download the APK file on your phone](https://drive.google.com/open?id=1vTIr-iJNwXaVDMILinjTje_K51gb0a7_)
+1. [Download the APK file on your phone]_
 2. Enable 'Allow Installation from Unknown Sources' in Settings
 3. Install
 ### Requirements
